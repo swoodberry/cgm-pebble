@@ -180,7 +180,7 @@ static const bool TurnOff_CHECKPHONE_Msg = false;
 
 // Control Vibrations
 // IF YOU WANT NO VIBRATIONS, SET TO true
-static const bool TurnOffAllVibrations = false;
+static const bool TurnOffAllVibrations = true;
 // IF YOU WANT LESS INTENSE VIBRATIONS, SET TO true
 static const bool TurnOffStrongVibrations = false;
 
